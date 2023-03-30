@@ -5,13 +5,9 @@ body{
   background-color: #ddd;
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 
-div {
-  width: 100%;
-  text-align: center;
-  border-radius: 10px;
-  border: 2px solid black;
-  background-color: #ccc;
-  align-items: center;
+h1 {
+text-align: center;
 }
